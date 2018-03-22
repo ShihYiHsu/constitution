@@ -1,1 +1,3 @@
-# constitution
+# Constitution
+
+This is our constitution.
